@@ -5,7 +5,7 @@ US VISA (ais.usvisa-info.com) available appointment notification bot
 - Having a US VISA appointment scheduled already
 - Google Chrome installed (to be controlled by the script)
 - Python v3 installed (for running the script)
-- API token from Pushover and/or a Sendgrid (for notifications)
+- API token from TELEGRAM (for notifications)
 
 
 ## Initial Setup
